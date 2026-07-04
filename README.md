@@ -21,10 +21,10 @@ I work at the intersection of analytics and growth — building statistical mode
 
 | Project | What it does | Built with |
 |---|---|---|
-| [ecommerce-purchase-prediction](https://github.com/g8emo3/ecommerce-purchase-prediction) | Predicts whether a browsing session ends in a purchase from behavioral signals; compares logistic regression, CART, and random forest on 25K sessions | R |
-| [foodpanda-cancellation-analysis](https://github.com/g8emo3/foodpanda-cancellation-analysis) | Predicts food-delivery order cancellations with an asymmetric-cost evaluation (a missed cancellation costs more than a false alarm) | R |
-| [taiwan-fertility-rate-forecasting](https://github.com/g8emo3/taiwan-fertility-rate-forecasting) | Tests how marriage rate and women's education attainment relate to Taiwan's fertility decline, then forecasts it forward with ETS smoothing | R |
-| [tiktok-engagement-verified-vs-nonverified](https://github.com/g8emo3/tiktok-engagement-verified-vs-nonverified) | Interactive dashboard comparing engagement between verified and non-verified TikTok creators across 1,200 videos | Excel, Tableau |
+| [ecommerce-purchase-prediction](https://github.com/hsinyi-peng/ecommerce-purchase-prediction) | Predicts whether a browsing session ends in a purchase from behavioral signals; compares logistic regression, CART, and random forest on 25K sessions | R |
+| [foodpanda-cancellation-analysis](https://github.com/hsinyi-peng/foodpanda-cancellation-analysis) | Predicts food-delivery order cancellations with an asymmetric-cost evaluation (a missed cancellation costs more than a false alarm) | R |
+| [taiwan-fertility-rate-forecasting](https://github.com/hsinyi-peng/taiwan-fertility-rate-forecasting) | Tests how marriage rate and women's education attainment relate to Taiwan's fertility decline, then forecasts it forward with ETS smoothing | R |
+| [tiktok-engagement-verified-vs-nonverified](https://github.com/hsinyi-peng/tiktok-engagement-verified-vs-nonverified) | Interactive dashboard comparing engagement between verified and non-verified TikTok creators across 1,200 videos | Excel, Tableau |
 
 ## Get in Touch
 
