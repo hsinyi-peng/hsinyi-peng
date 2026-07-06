@@ -36,29 +36,21 @@ Currently looking for **Business Analyst / Data Analyst / Marketing Analytics** 
 
 ## Featured Projects
 
-<div align="center">
+#### [ecommerce-purchase-prediction](https://github.com/hsinyi-peng/ecommerce-purchase-prediction)
+![R](https://img.shields.io/github/languages/top/hsinyi-peng/ecommerce-purchase-prediction?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/hsinyi-peng/ecommerce-purchase-prediction?style=flat-square)
+Predicts whether a browsing session ends in a purchase from behavioral signals; compares logistic regression, CART, and random forest on 25K sessions.
 
-<a href="https://github.com/hsinyi-peng/ecommerce-purchase-prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hsinyi-peng&repo=ecommerce-purchase-prediction&theme=default&hide_border=true" width="47%" />
-</a>
-<a href="https://github.com/hsinyi-peng/foodpanda-cancellation-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hsinyi-peng&repo=foodpanda-cancellation-analysis&theme=default&hide_border=true" width="47%" />
-</a>
-<a href="https://github.com/hsinyi-peng/taiwan-fertility-rate-forecasting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hsinyi-peng&repo=taiwan-fertility-rate-forecasting&theme=default&hide_border=true" width="47%" />
-</a>
-<a href="https://github.com/hsinyi-peng/tiktok-engagement-verified-vs-nonverified">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hsinyi-peng&repo=tiktok-engagement-verified-vs-nonverified&theme=default&hide_border=true" width="47%" />
-</a>
+#### [foodpanda-cancellation-analysis](https://github.com/hsinyi-peng/foodpanda-cancellation-analysis)
+![R](https://img.shields.io/github/languages/top/hsinyi-peng/foodpanda-cancellation-analysis?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/hsinyi-peng/foodpanda-cancellation-analysis?style=flat-square)
+Predicts food-delivery order cancellations with an asymmetric-cost evaluation (a missed cancellation costs more than a false alarm).
 
-</div>
+#### [taiwan-fertility-rate-forecasting](https://github.com/hsinyi-peng/taiwan-fertility-rate-forecasting)
+![R](https://img.shields.io/github/languages/top/hsinyi-peng/taiwan-fertility-rate-forecasting?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/hsinyi-peng/taiwan-fertility-rate-forecasting?style=flat-square)
+Tests how marriage rate and women's education attainment relate to Taiwan's fertility decline, then forecasts it forward with ETS smoothing.
 
-| Project | What it does |
-|---|---|
-| [ecommerce-purchase-prediction](https://github.com/hsinyi-peng/ecommerce-purchase-prediction) | Predicts whether a browsing session ends in a purchase from behavioral signals; compares logistic regression, CART, and random forest on 25K sessions |
-| [foodpanda-cancellation-analysis](https://github.com/hsinyi-peng/foodpanda-cancellation-analysis) | Predicts food-delivery order cancellations with an asymmetric-cost evaluation (a missed cancellation costs more than a false alarm) |
-| [taiwan-fertility-rate-forecasting](https://github.com/hsinyi-peng/taiwan-fertility-rate-forecasting) | Tests how marriage rate and women's education attainment relate to Taiwan's fertility decline, then forecasts it forward with ETS smoothing |
-| [tiktok-engagement-verified-vs-nonverified](https://github.com/hsinyi-peng/tiktok-engagement-verified-vs-nonverified) | Interactive dashboard comparing engagement between verified and non-verified TikTok creators across 1,200 videos |
+#### [tiktok-engagement-verified-vs-nonverified](https://github.com/hsinyi-peng/tiktok-engagement-verified-vs-nonverified)
+![Last commit](https://img.shields.io/github/last-commit/hsinyi-peng/tiktok-engagement-verified-vs-nonverified?style=flat-square)
+Interactive dashboard comparing engagement between verified and non-verified TikTok creators across 1,200 videos.
 
 <div align="center">
 
